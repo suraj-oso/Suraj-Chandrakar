@@ -1,3 +1,3 @@
 # Suraj Chandrakar Website
-Suraj-Chandrakar.github.io
+suraj-oso.github.io
 Suraj Chandrakar's Personal Website
